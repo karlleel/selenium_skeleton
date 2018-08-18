@@ -1,5 +1,5 @@
 # selenium_skeleton
-This projects has the means to serve as a frame for feature selenium projects to come.
+This projects has the means to serve as a frame for feature Selenium Java projects to come.
 
 Features:
 - screenshotter
