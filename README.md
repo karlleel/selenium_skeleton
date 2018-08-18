@@ -3,5 +3,4 @@ This projects has the means to serve as a frame for feature selenium projects to
 
 Features:
 - screenshotter
-- flexible browser setup
--- don't forget to install drivers on (virtual) machines
+- flexible browser setup (don't forget to install drivers on (virtual) machines)
